@@ -1,9 +1,6 @@
 # Prolexis Analytics Platform - Complete Requirements
 flask==2.3.3
-pyrebase4==4.7.1
 boto3==1.34.0
-textract==1.6.1
 requests==2.31.0
-pandas==2.1.3
 gunicorn==21.2.0
 
