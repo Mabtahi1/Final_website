@@ -1,4 +1,6 @@
 # Prolexis Analytics Platform - Complete Requirements
 flask==2.3.3
 gunicorn==21.2.0
-textract==1.6.1
+requests==2.31.0
+python-dotenv==1.0.0
+werkzeug==2.3.7
